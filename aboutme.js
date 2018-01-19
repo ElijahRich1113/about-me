@@ -1,32 +1,47 @@
 // Create sanity check below
+console.log("Hello World *^-^*")
 
 
 
 // console.log each variable
 // follow example below (remove "//" to uncomment)
 
-// var school = "Hawaii Tech Academy";
-// console.log(school); <== this should print "Hawaii Tech Academy" in your browser
+var school = "Hawaii Tech Academy";
+console.log(school); //<== this should print "Hawaii Tech Academy" in your browser
 
 
 // # 1
 // Variables with a "String" value
 // Declare the following variables name:
-// firstName
-// lastName
-// birthPlace
-// favFood
-// favDrink
-// favSong
-// favAnimal
-// favColor
-// favSport
-// favDoughnut
+var firstName = "Elijah";
+console.log(firstName);
 
+var lastName = "Richards";
+console.log(lastName);
 
+var birthPlace = "Seoul, South Korea";
+console.log(birthPlace);
 
+var favFood = "Chicken";
+console.log(favFood);
 
+var favDrink = "Root Beer";
+console.log(favDrink);
 
+var favSong = "Fair Weather Friend";
+console.log(favSong);
+
+var favAnimal = "Turtle";
+console.log(favAnimal);
+
+var favColor = "Purple";
+console.log(favColor);
+
+var favSport = "eSports";
+console.log(favSport);
+
+var favDoughnut = "Glazed";
+console.log(favDoughnut);
 
 
 // #2
