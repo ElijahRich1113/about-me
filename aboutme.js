@@ -1,5 +1,5 @@
 // Create sanity check below
-console.log("Hello World *^-^*")
+console.log("Hello World *^-^")
 
 
 
@@ -22,6 +22,9 @@ console.log(lastName);
 var birthPlace = "Seoul, South Korea";
 console.log(birthPlace);
 
+var birthDay = "11/13/01";
+console.log(birthDay);
+
 var favFood = "Chicken";
 console.log(favFood);
 
@@ -43,7 +46,6 @@ console.log(favSport);
 var favDoughnut = "Glazed";
 console.log(favDoughnut);
 
-
 // #2
 // Variables with a Number value
 // Declare the following variable names:
@@ -53,11 +55,23 @@ console.log(favDoughnut);
 // numberOfSiblings
 // numberOfStudentsInClass
 // numberOfDoorsInClassroom
+var favNumber = "13";
+console.log(favNumber);
 
+var yourShoeSize = "11";
+console.log(yourShoeSize);
 
+var numberOfPets = "2";
+console.log(numberOfPets);
 
+var numberOfSiblings = "1";
+console.log(numberOfSiblings)
 
+var numberOfStudentsInClass = "14";
+console.log(numberOfStudentsInClass)
 
+var numberOfDoorsInClassroom = "1";
+console.log(numberOfDoorsInClassroom)
 
 // #3
 // Variables with a Boolean value
@@ -68,11 +82,23 @@ console.log(favDoughnut);
 // hasAPet
 // playThePiano
 // playSports
+var likesMcDonalds = true;
+console.log(likesMcDonalds)
 
+var eatsDoughnuts = true;
+console.log(eatsDoughnuts);
 
+var ownsRedShoes = false;
+console.log(ownsRedShoes);
 
+var hasAPet = true;
+console.log(hasAPet);
 
+var playThePiano = true;
+console.log(playThePiano);
 
+var playSports = false;
+console.log(playSports);
 
 // #4
 // Variables with a Null value
@@ -80,10 +106,8 @@ console.log(favDoughnut);
 // completedMiddleSchool
 // traveledToMars
 // ateDinner
-
-
-
-
+var completedMiddleSchool = ;
+console.log(completedMiddleSchool);
 
 
 // #5
