@@ -106,9 +106,18 @@ console.log(playSports);
 // completedMiddleSchool
 // traveledToMars
 // ateDinner
-var completedMiddleSchool = ;
+
+var completedMiddleSchool = "yes";
+completedMiddleSchool = null;
 console.log(completedMiddleSchool);
 
+var traveledToMars = "no";
+traveledToMars = null;
+console.log(traveledToMars);
+
+var ateDinner = "yes";
+ateDinner = null
+console.log(ateDinner);
 
 // #5
 // Variables with an undefined value
@@ -117,10 +126,14 @@ console.log(completedMiddleSchool);
 // lastDayOfSchool
 // nextFieldTrip
 
+var superBowlChamps;
+console.log(superBowlChamps);
 
+var lastDayOfSchool;
+console.log(lastDayOfSchool);
 
-
-
+var nextFieldTrip;
+console.log(nextFieldTrip);
 
 // #6
 // Variables with an Array value
@@ -128,3 +141,15 @@ console.log(completedMiddleSchool);
 // Declare a variable named `plateLunch` and assign it an array containing 5 of your favorite lunch items.
 // Declare a variable named `donutBox` and assign it an array containing 5 donuts of your choosing.
 // Declare a variable named `pizzaToppings` and assign it an array containing 5 pizza toppings of your choosing.
+
+var backpack = ["Computer", "Pencil", "Hydroflask", "Headphones", "Chargers"];
+console.log(backpack);
+
+var plateLunch = ["Macaroni & Cheese", "Chicken", "Baked Beans", "Burger", "Pizza"]
+console.log(plateLunch);
+
+var donutBox = ["Glazed", "Chocolate w/ Sprinkles", "Chocolate w/o Sprinkles", "Maple Syrup", "Sour Cream"]
+console.log(donutBox);
+
+var pizzaToppings = ["Mushrooms", "Pineapple", "Ham/Bacon", "Pepperoni", "Sausage"]
+console.log(pizzaToppings);
